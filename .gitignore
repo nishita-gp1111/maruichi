@@ -1,0 +1,8 @@
+node_modules/
+.sites-runtime/
+source-material/
+.DS_Store
+.openai/
+QA.md
+photo-enhancement-prompts.json
+*.tar.gz

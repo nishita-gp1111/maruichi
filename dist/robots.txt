@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nishita-gp1111.github.io/maruichi/sitemap.xml
